@@ -1,5 +1,5 @@
 
-<img src="" alt="" width="700" height="500">
+<img src="https://github.com/gerhash/ZipCrack/assets/62940515/a9b2c900-540a-40f4-a4e5-cb471696e2b0" alt="zipcrack" width="700" height="600">
 
 # Zip Crack - Zip Archive Password Bruteforce 
 <img src="https://skillicons.dev/icons?i=py" alt="Skills" />
@@ -14,7 +14,9 @@ A password-protected zip file is one that has an added layer of security. When a
 A bruteforce attack is a method used by attackers to crack passwords or encryption by systematically trying all possible combinations of characters until the correct one is found. 
 In the context of password-protected zip files, a brute force attack would involve trying numerous combinations of passwords until the correct one is guessed, thereby gaining unauthorized access 
 to the contents of the zip file. This type of attack can be time-consuming and resource-intensive but can potentially be effective if the password is not strong enough or if enough computing power is applied.
-<img src="" alt="" width="500" height="500">
+
+<img src="https://github.com/gerhash/ZipCrack/assets/62940515/82cdca90-b474-43cd-a5a4-d91e573b8a22" alt="bruteforce" width="460" height="250">
+
 Your Python tool uses a zip file and a text file to perform a brute force attack. In the "/files" folder, you place the files you want to "crack," which are password-protected zip files. In the "/wordlist" folder,
 you include text files containing a list of passwords, one per line. If the script successfully cracks the password, the extracted files are stored in the "/dumps" folder during execution.
 <div>
@@ -37,15 +39,15 @@ you include text files containing a list of passwords, one per line. If the scri
 
 3. Select the file you want to use Bruteforce
 
-<img src="" alt="" width="500" height="500">
+<img src="https://github.com/gerhash/ZipCrack/assets/62940515/d9495414-281a-469d-84f1-6e42f35e323f" alt="zip bruteforce" width="500" height="250">
 
 4. Select the txt file who contains all the word combinations, you can find on internet, type wordlist.txt
 
-<img src="" alt="" width="500" height="500">
+<img src="https://github.com/gerhash/ZipCrack/assets/62940515/3f4ea7c3-b15d-4edd-b039-f0e61c1d7ef3" alt="wordlist bruteforce password cracking" width="500" height="210">
 
 5. ZipCrack will try all the passwords contained in the chosen txt file in a few seconds, if it matches then the files will be dumped and you will know the password
 
-<img src="" alt="" width="500" height="500">
+<img src="https://github.com/gerhash/ZipCrack/assets/62940515/54ff5219-828e-423a-ac8d-f1b37b491b2d" alt="result password crack" width="380" height="600">
 
 
 
@@ -54,7 +56,4 @@ you include text files containing a list of passwords, one per line. If the scri
 #### v1.0
 -  Zip Bruteforce
 
-
-<img src="https://github.com/gerhash/FTP_Aries/assets/62940515/225e3503-1cea-4d7f-a6cd-045d693b074c" alt="multiple" width="500" height="500" >
-<img src="https://github.com/gerhash/FTP_Aries/assets/62940515/b7a39f73-e190-4264-886b-a08f78da70a7" alt="multiple" width="500" height="400" >
 
