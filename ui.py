@@ -29,7 +29,7 @@ welcome = r'''
 '''
 
 
-string_sign = r'''www.github.link                                            by G#sh'''
+string_sign = r'''https://github.com/gerhash/ZipCrack                           by G#sh'''
 
 zip_ui = r'''
                     .--.           .---.        .-.

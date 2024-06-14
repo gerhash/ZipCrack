@@ -47,7 +47,7 @@ def fileshandler(folder_path, text):
 
             print(Fore.LIGHTMAGENTA_EX + "Files: ")
             for i, file in enumerate(files, start=1):
-                print(Back.CYAN + Fore.BLACK + f"{i}. {file}")
+                print(Back.CYAN + Fore.BLACK + f"{i}. {file}" + Back.RESET)
 
             filename = input(Back.RESET + Fore.BLUE + text)
 

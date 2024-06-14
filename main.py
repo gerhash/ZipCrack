@@ -7,6 +7,7 @@ def main():
 
     print(Fore.LIGHTYELLOW_EX + welcome)
     print(Fore.GREEN + string_sign)
+    print('\n\n')
     input(Fore.BLUE + "Press Enter to Continue >> ")
 
     print('\n\n\n')
